@@ -5,4 +5,4 @@ Author: Junjie Jiang jjiang39@asu.edu
 
 When using this code, please cite the original publication
 Jun-jie Jiang, Zi-gang Huang, Liang Huang, Huan Liu, Ying-cheng Lai, Directed
-dynamical influence is more detectable with noise, Sci. Rep. XXXX, XXX, 2016
+dynamical influence is more detectable with noise, Sci. Rep. 6, 24088, 2016
